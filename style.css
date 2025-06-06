@@ -89,11 +89,12 @@ font-size: 28pt;
 }
 
 .card p {
-    font-size: 28pt;
+    font-size: 38pt;
+    font-family: colus;
 }
 
 .card img {
-    height: 200px;
+    height: 500px;
 }
 
 .plant-cards {
